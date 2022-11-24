@@ -1267,3 +1267,4 @@
 0.0.0.0	amoeba-plus.web.roku.com
 0.0.0.0	longview.sb.roku.com
 0.0.0.0	scribe.logs.roku.com
+0.0.0.0 twitter.com
