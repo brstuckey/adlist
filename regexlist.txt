@@ -1,3 +1,8 @@
+# And you may ask yourself
+# Am I right? Am I wrong?
+#And you may say yourself
+# "My God! What have I done?"
+
 0.0.0.0	ads.roku.com
 0.0.0.0	logs.roku.com
 0.0.0.0	sw.roku.com
